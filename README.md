@@ -23,6 +23,11 @@ The data used for this project comes from the file `yahoo_stock.csv`. It's expec
 
 The project directory `project_for_github/` contains the following files:project_for_github/
 
+
+## Project Structure
+
+The project directory `project_for_github/` contains the following files:project_for_github/
+
 project_for_github/
 ├── .gitignore # Specifies intentionally untracked files that Git should ignore.
 ├── app.py # Main Streamlit application code.
@@ -30,6 +35,8 @@ project_for_github/
 ├── sarimax_model.pkl # Trained SARIMAX model (if needed).
 ├── yahoo_stock.csv # Stock price data.
 └── README.md # Project overview.
+
+
 
 
 ## How to Run the Application
