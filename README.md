@@ -20,12 +20,19 @@ This project aims to predict future stock prices based on historical data using 
 The data used for this project comes from the file `yahoo_stock.csv`. It's expected to have a 'Date' column as the index and a 'Close' column containing the closing stock prices.
 
 ## Project Structure
-project_for_github/
+
+The project directory `project_for_github/` contains the following files:project_for_github/
+
 ├── .gitignore # Specifies intentionally untracked files that Git should ignore.
+
 ├── app.py # Main Streamlit application code.
+
 ├── requirements.txt # Lists Python package dependencies.
+
 ├── sarimax_model.pkl # Trained SARIMAX model (if needed).
+
 ├── yahoo_stock.csv # Stock price data.
+
 └── README.md # Project overview.
 
 
