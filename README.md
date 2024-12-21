@@ -30,10 +30,15 @@ The project directory `project_for_github/` contains the following files:project
 
 project_for_github/
 ├── .gitignore # Specifies intentionally untracked files that Git should ignore. 
+
 ├── app.py # Main Streamlit application code. 
+
 ├── requirements.txt # Lists Python package dependencies. 
+
 ├── sarimax_model.pkl # Trained SARIMAX model (if needed). 
+
 ├── yahoo_stock.csv # Stock price data. 
+
 └── README.md # Project overview. 
 
 
@@ -92,4 +97,4 @@ project_for_github/
 
 ## Contact
 
-If you have any questions or suggestions, please reach out to me at your_email@example.com
+If you have any questions or suggestions, please reach out to me at emadaliemad375@gmail.com
