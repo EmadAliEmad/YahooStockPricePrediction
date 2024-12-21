@@ -1,0 +1,4 @@
+env/
+env-python312/
+*.pyc
+__pycache__/
